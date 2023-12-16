@@ -17,7 +17,7 @@ Before running the program, make sure you have Go installed on your system. You 
 2. Navigate to the project directory:
 
     ```bash
-    cd go-system-info
+    cd specs_checker
     ```
 
 3. Run the following command to install the required dependencies:
